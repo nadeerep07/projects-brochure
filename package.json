@@ -1,0 +1,12 @@
+{
+  "name": "duotek-projects-brochure",
+  "version": "1.0.0",
+  "description": "Official DUOTEK Software & Mobile Projects Showcase Brochure",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": ["duotek", "portfolio", "brochure", "dubai", "custom-software", "mobile-apps"],
+  "author": "DUOTEK Information Technologies LLC",
+  "license": "MIT"
+}

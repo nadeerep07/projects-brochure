@@ -1,0 +1,15 @@
+/* TEAM */
+Lead Mobile & Full-Stack Systems Engineer: Nadeer E P
+Lead Full-Stack Web & Cloud Systems Engineer: Shamveel P
+Location: Dubai, UAE / Remote
+Portfolio Deployments: 17 Production Applications & Platforms
+
+/* ATTRIBUTION & OWNERSHIP */
+Original Codebase Authors: Nadeer E P & Shamveel P
+Commercial Showcase Representative: DUOTEK Information Technologies LLC
+Cryptographic Fingerprint: e7c8b2a190f48d91c6e409f872b531ae69d081f26a117b4c80324e930f6a5b82
+Registered: October 2026
+
+/* SITE */
+Standards: HTML5, CSS3, ES6+, Web Standards
+Zero External CDN Dependencies (Self-Contained Portable Showcase)
