@@ -43,7 +43,7 @@ This brochure showcases **17 production digital deliverables** engineered and de
 | :--- | :--- | :--- | :--- |
 | **Dr. Plus Home Healthcare** | Healthcare / Telehealth | iOS & Android | [App Store](https://apps.apple.com/in/app/dr-plus-home-healthcare/id6757393421) • [Google Play](https://play.google.com/store/apps/details?id=com.drplus.homecare.user&pcampaignid=web_share) |
 | **StarPlus Foods** | FMCG / Food Products | Web Platform | [starplusfoods.com](https://starplusfoods.com) |
-| **Dr Plus Team** | Clinical Operations & HRMS | iOS & Android | [App Store](https://apps.apple.com/app/dr-plus-team/id6827041110) • [Google Play](https://play.google.com/store/apps/details?id=com.drplus.staff) |
+| **Dr Plus Team** | Clinical Operations & HRMS | iOS & Android | [App Store](https://apps.apple.com/in/app/dr-plus-team/id6827041110) • [Google Play](https://play.google.com/store/apps/details?id=com.drplus.staff) |
 | **Aarya Eye Care Hospital** | Healthcare Clinic Portal | Web Application | [aarya-eye-care-demo.vercel.app](https://aarya-eye-care-demo.vercel.app) |
 | **QuickPitch** | Gig Economy & Freelance | Google Play Store | [Google Play](https://play.google.com/store/apps/details?id=com.quickpitch) |
 | **Aavya Boutique** | Luxury Ethnic Fashion | E-Commerce Store | [aavyaboutique.com](https://aavyaboutique.com) |
