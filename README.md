@@ -29,8 +29,8 @@ This brochure showcases **17 production digital deliverables** engineered and de
    - Dual view switcher: **Card Grid** or **Executive Table**.
    - In-app **Quick Preview** modal for live websites.
 3. **Store & Web Badges**:
-   - Direct Apple App Store link for *Dr. Plus Home Healthcare (iOS)*.
-   - Direct Google Play Store links for *Dr. Plus Home Healthcare* & *Dr. Plus Staff*.
+   - Direct Apple App Store & Google Play Store links for *Dr. Plus Home Healthcare* and *Dr Plus Team*.
+   - Direct Google Play Store link for *QuickPitch*.
    - Direct live production website links.
 4. **Client PDF Brochure Generator**:
    - Built-in `@media print` layout so you can click **"Export PDF"** to produce an executive-ready proposal or printed brochure without navigation clutter.
@@ -41,24 +41,23 @@ This brochure showcases **17 production digital deliverables** engineered and de
 
 | Project | Sector | Platform | Store / Web Link |
 | :--- | :--- | :--- | :--- |
-| **Dr. Plus Home Healthcare** | Healthcare / Telehealth | iOS App Store | [Apple App Store](https://apps.apple.com/in/app/dr-plus-home-healthcare/id6757393421) |
-| **Dr. Plus Home Healthcare** | Healthcare / On-demand | Google Play Store | [Google Play](https://play.google.com/store/apps/details?id=com.drplus.homecare.user&pcampaignid=web_share) |
-| **Dr. Plus Staff App** | Clinical Operations | Google Play Store | [Google Play](https://play.google.com/store/apps/details?id=com.drplus.staff) |
-| **Aarya Eye Care Hospital** | Healthcare Clinic Portal | Web Application | [aarya-eye-care-demo.vercel.app](https://aarya-eye-care-demo.vercel.app) |
+| **Dr. Plus Home Healthcare** | Healthcare / Telehealth | iOS & Android | [App Store](https://apps.apple.com/in/app/dr-plus-home-healthcare/id6757393421) • [Google Play](https://play.google.com/store/apps/details?id=com.drplus.homecare.user&pcampaignid=web_share) |
 | **StarPlus Foods** | FMCG / Food Products | Web Platform | [starplusfoods.com](https://starplusfoods.com) |
+| **Dr Plus Team** | Clinical Operations & HRMS | iOS & Android | [App Store](https://apps.apple.com/app/dr-plus-team/id6827041110) • [Google Play](https://play.google.com/store/apps/details?id=com.drplus.staff) |
+| **Aarya Eye Care Hospital** | Healthcare Clinic Portal | Web Application | [aarya-eye-care-demo.vercel.app](https://aarya-eye-care-demo.vercel.app) |
+| **QuickPitch** | Gig Economy & Freelance | Google Play Store | [Google Play](https://play.google.com/store/apps/details?id=com.quickpitch) |
 | **Aavya Boutique** | Luxury Ethnic Fashion | E-Commerce Store | [aavyaboutique.com](https://aavyaboutique.com) |
-| **Sking Cosmetics** | Skincare & Beauty D2C | D2C Store | [skingcosmetics.com](https://skingcosmetics.com) |
-| **Selection Fruits** | Fresh Produce & Grocery | Web App Demo | [selection-fruits.vercel.app](https://selection-fruits.vercel.app) |
 | **Sakura Labs Studio** | Tech Studio / Agency | Web Platform | [sakuralabs.in](https://sakuralabs.in) |
+| **FinoVision** | Fintech & Analytics | Dashboard | [finovision.net](https://www.finovision.net/) |
+| **Sking Cosmetics** | Skincare & Beauty D2C | D2C Store | [skingcosmetics.com](https://skingcosmetics.com) |
 | **Voyager Tours** | Travel & Holiday Booking | Booking Platform | [voyagertours.in](https://voyagertours.in) |
 | **Packers Hub** | Relocation & Logistics | Logistics Portal | [packershub.in](https://packershub.in) |
 | **EveryJust** | Business Services Portal | Web Platform | [EveryJust.in](https://EveryJust.in) |
+| **Selection Fruits** | Fresh Produce & Grocery | Web App Demo | [selection-fruits.vercel.app](https://selection-fruits.vercel.app) |
 | **Al-Bakri Enterprise** | Enterprise & Trading | Prototype | [al-bakri-proto.vercel.app](https://al-bakri-proto.vercel.app) |
-| **FinoVision** | Fintech & Analytics | Dashboard | [finovision.net](https://www.finovision.net/) |
 | **ChainVerse Web3** | Web3 & Blockchain | Tech Platform | [chainverse.live](https://chainverse.shamveelp.xyz) |
 | **Savety Emergency** | Emergency & Safety Tech | SaaS Platform | [savety.live](https://savety.shamveelp.xyz) |
 | **Bore2Game Arcade** | Interactive Web Arcade | Web Gaming | [bore2game.vercel.app](https://bore2game.vercel.app) |
-| **DUOTEK Enterprise Portal** | Technology & Infrastructure | Official Flagship | [duotek.ae](https://duotek.ae/) |
 
 ---
 
