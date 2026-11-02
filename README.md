@@ -54,7 +54,7 @@ This brochure showcases **17 production digital deliverables** engineered and de
 | **Packers Hub** | Relocation & Logistics | Logistics Portal | [packershub.in](https://packershub.in) |
 | **EveryJust** | Business Services Portal | Web Platform | [EveryJust.in](https://EveryJust.in) |
 | **Al-Bakri Enterprise** | Enterprise & Trading | Prototype | [al-bakri-proto.vercel.app](https://al-bakri-proto.vercel.app) |
-| **FinoVision** | Fintech & Analytics | Dashboard | [finovision-preview.vercel.app](https://finovision-preview.vercel.app/) |
+| **FinoVision** | Fintech & Analytics | Dashboard | [finovision.net](https://www.finovision.net/) |
 | **ChainVerse Web3** | Web3 & Blockchain | Tech Platform | [chainverse.live](https://chainverse.shamveelp.xyz) |
 | **Savety Emergency** | Emergency & Safety Tech | SaaS Platform | [savety.live](https://savety.shamveelp.xyz) |
 | **Bore2Game Arcade** | Interactive Web Arcade | Web Gaming | [bore2game.vercel.app](https://bore2game.vercel.app) |
